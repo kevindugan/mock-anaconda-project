@@ -1,0 +1,4 @@
+name: py36
+dependencies:
+    - pytest-cov
+    - python=3.6
